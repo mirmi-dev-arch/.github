@@ -1,4 +1,4 @@
-# MIRMI Simulation and Deployment Architecture
+# MIRMI ERL Simulation and Deployment Architecture
 
 Research software for the ecoBay project at TUM MIRMI: a modular ROS 2 architecture that lets the same control, estimation and evaluation code run against several simulators and, later, real aquatic vehicles. The work connects the Hamburg aquatic robotics stack with the research needs in Munich.
 
